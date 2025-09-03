@@ -73,3 +73,25 @@ nav a:hover {
     opacity: 1;
     transform: translateY(0);
 }
+
+#{
+    background-color: #000000;
+}
+
+#r-img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: max-content;
+    margin-left: 200%;
+}
+
+#imager {
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+    height: 100vh;
+    width: max-content;
+    
+}
